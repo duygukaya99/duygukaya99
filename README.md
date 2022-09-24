@@ -1,5 +1,3 @@
-**duygukaya99/duygukaya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi everyone 👋, I'm Duygu Kaya</h1>
 <h3 align="center">Mathematical Engineering student from Istanbul Technical University</h3>
 
