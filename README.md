@@ -11,4 +11,9 @@
 <a href="https://medium.com/@kayad17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kayad17" height="30" width="40" /></a>
 </p>
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/8CYD7zQOYECt2UolVp/video" width="480"></iframe></div>
+<div style="width:480px">
+  <iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/8CYD7zQOYECt2UolVp/video" width="480"></iframe>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
