@@ -2,11 +2,14 @@
 <h3 align="center">Mathematical Engineering student from Istanbul Technical University</h3>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Page!;Let's+dance+with+codes&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Page!;Let's+dance+with+codes!&center=true&size=25">
   </a>
 </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="100"/>
+</div> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/U9DvKcwEVv5njhZRRa/giphy.gif" width="100"/>
 </div> 
 
 - 🌱 I’m currently learning **Python**
@@ -21,9 +24,6 @@
 <a href="https://medium.com/@kayad17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kayad17" height="30" width="40" /></a>
 </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/U9DvKcwEVv5njhZRRa/giphy.gif" width="100"/>
-</div> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duygukaya99&label=Profile%20views&color=0e75b6&style=flat" alt="duygukaya99" /> </p>
 
 💭 Quote of the day
