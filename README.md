@@ -3,9 +3,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Page!;Let's+dance+with+codes!&center=true&size=25">
+    <div id="header" align="right">
+  <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="100"/>
+</div> 
   </a>
 </h1>
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="100"/>
 </div> 
 <div id="header" align="center">
