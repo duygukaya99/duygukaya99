@@ -3,9 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi everyone!;I+am+Duygu+Kaya&center=true&size=25">
   </a>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duygukaya99&label=Profile%20views&color=0e75b6&style=flat" alt="duygukaya99" /> </p>
-
-
 
 
 <h1 align="center">Hi everyone 👋, I'm Duygu Kaya</h1>
@@ -30,6 +27,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/U9DvKcwEVv5njhZRRa/giphy.gif" width="100"/>
 </div> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duygukaya99&label=Profile%20views&color=0e75b6&style=flat" alt="duygukaya99" /> </p>
 
 
 
