@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi everyone!;I+am+Duygu+Kaya&center=true&size=25">
   </a>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayselaydin&label=Profile%20views&color=0e75b6&style=flat" alt="ayselaydin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duygukaya99&label=Profile%20views&color=0e75b6&style=flat" alt="duygukaya99" /> </p>
 
 
 
