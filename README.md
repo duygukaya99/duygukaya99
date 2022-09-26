@@ -1,8 +1,6 @@
 <h1 align="center">Hi everyone 👋, I'm Duygu Kaya</h1>
 <h3 align="center">Mathematical Engineering student from Istanbul Technical University</h3>
 
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -21,9 +19,8 @@
   <img src="https://media.giphy.com/media/U9DvKcwEVv5njhZRRa/giphy.gif" width="100"/>
 </div> 
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="100"/>
 </div> 
 
-<iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
+
