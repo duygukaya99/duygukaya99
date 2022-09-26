@@ -29,6 +29,6 @@
 </div> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duygukaya99&label=Profile%20views&color=0e75b6&style=flat" alt="duygukaya99" /> </p>
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
