@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi everyone!;I+am+Duygu+Kaya&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+everyone!;I+am+Duygu+Kaya&center=true&size=25">
   </a>
 </h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
@@ -28,7 +28,7 @@
   <img src="https://media.giphy.com/media/U9DvKcwEVv5njhZRRa/giphy.gif" width="100"/>
 </div> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duygukaya99&label=Profile%20views&color=0e75b6&style=flat" alt="duygukaya99" /> </p>
-
+💭 Quote of the day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
