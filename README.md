@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kayad17@itu.edu.tr**
 
-- 👨‍💻 My goal is to have a github bathroom one day [https://pbs.twimg.com/media/FTJYOb1aQAA459O?format=jpg&name=large](https://pbs.twimg.com/media/FTJYOb1aQAA459O?format=jpg&name=large)
+- 👨‍💻 My goal is to have a [github bathroom](https://pbs.twimg.com/media/FTJYOb1aQAA459O?format=jpg&name=large) one day :) 💚
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
