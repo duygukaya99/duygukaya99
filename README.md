@@ -1,11 +1,9 @@
+<h1 align="center">Hi everyone 👋, I'm Duygu Kaya</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+everyone!;I+am+Duygu+Kaya&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Page!;I+am+Duygu+Kaya&center=true&size=25">
   </a>
 </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
-<h1 align="center">Hi everyone 👋, I'm Duygu Kaya</h1>
 <h3 align="center">Mathematical Engineering student from Istanbul Technical University</h3>
 
 <div id="header" align="center">
