@@ -1,11 +1,10 @@
 <h1 align="center">Hi everyone 👋, I'm Duygu Kaya</h1>
+<h3 align="center">Mathematical Engineering student from Istanbul Technical University</h3>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Page!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Page!;Let's+dance+with+codes&center=true&size=25">
   </a>
 </h1>
-<h3 align="center">Mathematical Engineering student from Istanbul Technical University</h3>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="100"/>
 </div> 
