@@ -16,4 +16,4 @@
 </p>
 
 <div id="header" align="center">
-<img src="https://giphy.com/embed/bAplZhiLAsNnG" width="480" height="288" class="giphy-embed"><a href="https://giphy.com/gifs/internet-jim-carrey-working-bAplZhiLAsNnG"></a> </div>
+<img src="https://giphy.com/embed/bAplZhiLAsNnG" class="giphy-embed"></div>
