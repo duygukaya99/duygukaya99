@@ -15,4 +15,5 @@
 <a href="https://medium.com/@kayad17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kayad17" height="30" width="40" /></a>
 </p>
 
-<img src="https://giphy.com/embed/bAplZhiLAsNnG" width="480" height="288" class="giphy-embed" allowFullScreen><a href="https://giphy.com/gifs/internet-jim-carrey-working-bAplZhiLAsNnG"></a>
+<div id="header" align="center">
+<img src="https://giphy.com/embed/bAplZhiLAsNnG" width="480" height="288" class="giphy-embed"><a href="https://giphy.com/gifs/internet-jim-carrey-working-bAplZhiLAsNnG"></a> </div>
