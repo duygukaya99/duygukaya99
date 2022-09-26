@@ -15,12 +15,3 @@
 <a href="https://medium.com/@kayad17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kayad17" height="30" width="40" /></a>
 </p>
 
-<div style="width:100%">
-  <div style="height:0;padding-bottom:56.25%;position:relative;width:100%">
-    <iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/8CYD7zQOYECt2UolVp/video" style="left:0;position:absolute;top:0" width="100%">
-    </iframe>
-  </div>
-</div>
-
-<iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5"></a></p>
- 
