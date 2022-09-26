@@ -19,6 +19,11 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/U9DvKcwEVv5njhZRRa/giphy.gif" width="100"/>
-
 </div> 
-<img src="https://media.giphy.com/media/U9DvKcwEVv5njhZRRa/giphy.gif" width="100"/>
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="100"/>
+</div> 
+
+<iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
